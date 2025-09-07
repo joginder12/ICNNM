@@ -28,4 +28,20 @@ investigations. Three miRNAs miR-503, miR-202, and miR-135a can be considered as
 cancer classes prostate and rectum, mesothelioma, and testicular germ cells, respectively, as their target genes
 are involved in related cancer pathways, obtained using miRDB database.
 
+## Datasets
+
+## Cite the Article
+Singh, J., Ray, S. S., & Roy, S. (2025). Identifying pan-cancer and cancer subtype miRNAs using interpretable convolutional neural network. Journal of Computational Science, 85, 102510.
+
+@article{singh2025identifying,
+  title={Identifying pan-cancer and cancer subtype miRNAs using interpretable convolutional neural network},
+  author={Singh, Joginder and Ray, Shubhra Sankar and Roy, Sukriti},
+  journal={Journal of Computational Science},
+  volume={85},
+  pages={102510},
+  year={2025},
+  publisher={Elsevier}
+}
+
+
 
