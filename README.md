@@ -30,6 +30,9 @@ are involved in related cancer pathways, obtained using miRDB database.
 
 ## Datasets
 - <a href = "https://drive.google.com/file/d/1JEuFi3w0DlIRmUft3fjdHh8asn8hIu8J/view">Breast Dataset </a>
+- <a href = "https://drive.google.com/file/d/1DMWWqt4dqb4Ixq57QAyMiVdhdI1zJ1Wx/view">Lung Dataset </a>
+- <a href = "https://drive.google.com/file/d/1CR6wCbfdfqR3Dg7oZDtAy8kJPxD09RG4/view">Kidney Dataset </a>
+- <a href = "https://drive.google.com/file/d/1JaNfq2m87z1KtuFZrNWRvS-AbkmXK_49/view">Classified Pan-cancer (CP) Dataset </a>
 
 ## Cite the Article
 Singh, J., Ray, S. S., & Roy, S. (2025). Identifying pan-cancer and cancer subtype miRNAs using interpretable convolutional neural network. Journal of Computational Science, 85, 102510.
