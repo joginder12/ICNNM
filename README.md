@@ -1,6 +1,6 @@
 # Identifying pan-cancer and cancer subtype miRNAs using interpretable convolutional neural network (ICNNM)
-                                   Authors: Joginder Singh and Shubhra Sankar Ray
-                                 E-Mail: joginder265@gmail.com and shubhra@isical.ac.in
+                                   Authors: Joginder Singh, Shubhra Sankar Ray, and Sukriti Roy
+                                 E-Mail: joginder265@gmail.com, shubhra@isical.ac.in, and sukiroy1357@gmail.com
 
 ## Datasets
 - <a href = "https://drive.google.com/file/d/1JEuFi3w0DlIRmUft3fjdHh8asn8hIu8J/view">Breast Dataset </a>
